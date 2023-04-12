@@ -4,30 +4,10 @@ Web portal Berita ini merupakan sarana mencari informasi dan berita terkini, mem
 Karena aplikasi ini masih menggunakan free public api jadi request nya terbatas hanya 100 request perharinya.
 
 
-## Run Locally
+## Live Demo
 
-Clone the project
-
-```bash
-  git clone https://github.com/Nanahandresaputra/reactjs-portalBeritaFunctional.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
+```http
+  https://reactjs-portal-berita-functional.vercel.app/
 ```
 
 
